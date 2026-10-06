@@ -89,7 +89,7 @@
 
 <p style="text-align: justify;">After answering a question, review why the correct option fits the scenario and why the other options do not. This is especially useful for microsoft AZ-900 because several Azure services can sound similar when you are new to cloud computing.</p>
 
-<p style="text-align: justify;"><strong>PrepBolt</strong> is an exam-preparation platform that provides real&nbsp;<strong><a href="https://prepbolt.com/paths/microsoft/data/az-900">Microsoft AZ-900 Exam Practice Questions</a></strong> and study resources. It can be used as part of your AZ-900 preparation to test your knowledge and identify topics that require more revision alongside official Microsoft learning resources.</p>
+<p style="text-align: justify;"><strong>PrepBolt</strong> is an exam-preparation platform that provides real&nbsp;<strong><a href="https://prepbolt.com/paths/microsoft/questions/az-900">Microsoft AZ-900 Exam Practice Questions</a></strong> and study resources. It can be used as part of your AZ-900 preparation to test your knowledge and identify topics that require more revision alongside official Microsoft learning resources.</p>
 
 <h2 style="text-align: justify;">Build a Simple Microsoft AZ-900 Exam Study Routine</h2>
 
